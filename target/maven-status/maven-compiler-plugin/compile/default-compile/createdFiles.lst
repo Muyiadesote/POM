@@ -1,3 +1,13 @@
-com\CucumberPrac\createANotePage.class
-com\CucumberPrac\loginPage.class
+Java_Test_Practice\grouping_cases.class
+com\CucumberPrac\DataManager.class
+Java_Test_Practice\arrays2.class
+com\CucumberPrac\createAccountPage.class
+Java_Test_Practice\arrays.class
+com\CucumberPrac\Data.class
+Java_Test_Practice\if_else_if_else.class
+Java_Test_Practice\control_flow_statement1.class
+Java_Test_Practice\branching_2.class
 com\CucumberPrac\DriverInstance.class
+Java_Test_Practice\Switch_case.class
+Java_Test_Practice\else_statements.class
+Java_Test_Practice\branching.class
